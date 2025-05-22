@@ -1,7 +1,3 @@
-<!-- Header -->
-<p align="center">
-</p>
-
 <!-- GitHub Profile Title -->
 <div align="center">
   <h1>
@@ -37,12 +33,16 @@
 ### 🧩 Core Languages
 <img src="https://skillicons.dev/icons?i=py,r,mysql,bash" />
 
-### 🤖 AI / ML Stack
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker" />
+### 🤖 AI Stack & Tools
+
 <img src="https://img.shields.io/badge/Langchain-blue?style=flat&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-purple?style=flat&logo=OpenAI&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-Systems-red?style=flat&logo=OpenAI&logoColor=white" />
-
+<img src="https://img.shields.io/badge/RAG-System-red?style=flat&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20API-black?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-blue?style=flat&logo=Facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-db-green?style=flat&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-transformers-orange?style=flat&logo=HuggingFace&logoColor=white" />
 </div>
 
 ---
@@ -54,8 +54,6 @@
 - Learning end-to-end **MLOps workflows** including model training, versioning, deployment, and monitoring in cloud environments.  
 - Deepening understanding of **NLP techniques** and foundational machine learning algorithms to build smarter AI systems.  
 - Collaborating with AI and data science communities to contribute to open-source projects and stay updated with cutting-edge research.
-
-
 
 ---
 
@@ -85,14 +83,13 @@
 ## 🌍 Connect with Me
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/agnes-wendi/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:agnesswendi@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/agnes-wendi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:agnesswendi@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
+  </a>
 </div>
 
 ---

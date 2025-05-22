@@ -43,9 +43,6 @@
 <img src="https://img.shields.io/badge/LangGraph-purple?style=flat&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-Systems-red?style=flat&logo=OpenAI&logoColor=white" />
 
-### 🧪 Data Tools
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,pandas,powerbi,tableau" />
-
 </div>
 
 ---
